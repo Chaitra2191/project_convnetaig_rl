@@ -10,9 +10,9 @@ Architecture Overviews: <br>
 --------------------------------------------------------------------------------------
 ![Overall Architecture](/images/images_overall-archi.png) <br>
 ![Overall Architecture 1](/images/images_overall-archi1.png) <br>
-Figure: General architecture for the implementation. <br> 
+<div align="center"> Figure: General architecture for the implementation. <br> 
 (Top L-R): Structures for feed forward CNN, ResNet and Adanet with gating unit. <br>
-Gating unit determines whether the layer needs to be executed for the current input image. <br>
+Gating unit determines whether the layer needs to be executed for the current input image. <br> </div>
 
 Existing Approach: <br>
 --------------------------------------------------------------------------------------
